@@ -43,7 +43,7 @@
     "babel-register": "^6.0.0",
     "chai": "^3.0.0",
     "coveralls": "^2.0.0",
-    "eslint": "^2.0.0",
+    "eslint": "^2.13.1",
     "eslint-mocha": "0.0.9",
     "fs-equal": "0.0.4",
     "fs-extra": "0.30.0",
